@@ -1,4 +1,4 @@
-# multi_cinema
+# multi_cinema(stopped till i did not make some js projects)
 
 This template should help get you started developing with Vue 3 in Vite.
 
